@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271527941033",
+    "firebase_url": "https://snackit-c8612.firebaseio.com",
+    "project_id": "snackit-c8612",
+    "storage_bucket": "snackit-c8612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271527941033:android:54f7ab58c18496bf832ab8",
+        "android_client_info": {
+          "package_name": "com.example.snackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271527941033-7vet2dpmumh49c3711ulfvrvkvh2k0tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXa4Wfn0CveUjLjvPT4_o-NDQYggnaOeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271527941033-7vet2dpmumh49c3711ulfvrvkvh2k0tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
